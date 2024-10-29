@@ -1,0 +1,3 @@
+C:/Users/p_ant/CLionProjects/PWR-racing_Zadanie_2/cmake-build-debug/CMakeFiles/projekt.dir
+C:/Users/p_ant/CLionProjects/PWR-racing_Zadanie_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/p_ant/CLionProjects/PWR-racing_Zadanie_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
