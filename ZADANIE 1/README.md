@@ -1,3 +1,7 @@
+# Zadanie 1
+
+**- Załączam plik kopia_main.c oraz schemat mikrokontrolera w folderach OBRAZY, na wypadek, gdyby był problem z otwarciem pliku**
+
 - Tworzę projekt w środowisku "STM32CubeIDE" 
 
 - Wybieram mikrokontroler "STM32F205RGT6"
@@ -14,4 +18,4 @@
 
 W pętli while(1) [linijki 101-105] ustawiam delay większy niż był wzięty w równanie (w równaniu było 20ms, a w programie jest 23ms) tak, aby watchdog resetował program, przez co dioda będzie migać. 
 
-dodatkowo, załączam plik main.c oraz schemat mikrokontrolera, na wypadek, gdyby był problem z otwarciem pliku
+
